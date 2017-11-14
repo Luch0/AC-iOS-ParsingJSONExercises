@@ -8,12 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		E263A7F11FBB7D0C00F14862 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A7F01FBB7D0C00F14862 /* AppDelegate.swift */; };
-		E263A7F31FBB7D0C00F14862 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A7F21FBB7D0C00F14862 /* ViewController.swift */; };
 		E263A7F61FBB7D0C00F14862 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E263A7F41FBB7D0C00F14862 /* Main.storyboard */; };
 		E263A7F81FBB7D0C00F14862 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E263A7F71FBB7D0C00F14862 /* Assets.xcassets */; };
 		E263A7FB1FBB7D0C00F14862 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E263A7F91FBB7D0C00F14862 /* LaunchScreen.storyboard */; };
 		E263A8061FBB7D0C00F14862 /* ParsingJSONExercisesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8051FBB7D0C00F14862 /* ParsingJSONExercisesTests.swift */; };
 		E263A8111FBB7D0C00F14862 /* ParsingJSONExercisesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8101FBB7D0C00F14862 /* ParsingJSONExercisesUITests.swift */; };
+		E263A8211FBB7EAF00F14862 /* GOTHousesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8201FBB7EAF00F14862 /* GOTHousesViewController.swift */; };
+		E263A8231FBB7F2400F14862 /* HousesData.json in Resources */ = {isa = PBXBuildFile; fileRef = E263A8221FBB7F2400F14862 /* HousesData.json */; };
+		E263A8261FBB828B00F14862 /* GOTHouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8251FBB828B00F14862 /* GOTHouse.swift */; };
+		E263A8281FBB8A1500F14862 /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8271FBB8A1500F14862 /* Song.swift */; };
+		E263A82A1FBB8A5000F14862 /* SongsData.json in Resources */ = {isa = PBXBuildFile; fileRef = E263A8291FBB8A5000F14862 /* SongsData.json */; };
+		E263A82C1FBB8C6500F14862 /* SongsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A82B1FBB8C6500F14862 /* SongsViewController.swift */; };
+		E263A82E1FBB905400F14862 /* WeatherData.json in Resources */ = {isa = PBXBuildFile; fileRef = E263A82D1FBB905400F14862 /* WeatherData.json */; };
+		E263A8301FBB911800F14862 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A82F1FBB911800F14862 /* City.swift */; };
+		E263A8321FBB92F200F14862 /* CitiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8311FBB92F200F14862 /* CitiesViewController.swift */; };
+		E263A8341FBB994500F14862 /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8331FBB994500F14862 /* ColorViewController.swift */; };
+		E263A8361FBB9A0B00F14862 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8351FBB9A0B00F14862 /* Color.swift */; };
+		E263A8381FBB9A9000F14862 /* ColorsData.json in Resources */ = {isa = PBXBuildFile; fileRef = E263A8371FBB9A9000F14862 /* ColorsData.json */; };
+		E263A83A1FBBA2E600F14862 /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A8391FBBA2E600F14862 /* News.swift */; };
+		E263A83C1FBBA44000F14862 /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263A83B1FBBA44000F14862 /* NewsViewController.swift */; };
+		E28FB3A31FBBA62B0083549C /* NewsData.json in Resources */ = {isa = PBXBuildFile; fileRef = E28FB3A21FBBA62B0083549C /* NewsData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +50,6 @@
 /* Begin PBXFileReference section */
 		E263A7ED1FBB7D0C00F14862 /* ParsingJSONExercises.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParsingJSONExercises.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E263A7F01FBB7D0C00F14862 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E263A7F21FBB7D0C00F14862 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E263A7F51FBB7D0C00F14862 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E263A7F71FBB7D0C00F14862 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E263A7FA1FBB7D0C00F14862 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +60,21 @@
 		E263A80C1FBB7D0C00F14862 /* ParsingJSONExercisesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParsingJSONExercisesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E263A8101FBB7D0C00F14862 /* ParsingJSONExercisesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParsingJSONExercisesUITests.swift; sourceTree = "<group>"; };
 		E263A8121FBB7D0C00F14862 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E263A8201FBB7EAF00F14862 /* GOTHousesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GOTHousesViewController.swift; sourceTree = "<group>"; };
+		E263A8221FBB7F2400F14862 /* HousesData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = HousesData.json; sourceTree = "<group>"; };
+		E263A8251FBB828B00F14862 /* GOTHouse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GOTHouse.swift; sourceTree = "<group>"; };
+		E263A8271FBB8A1500F14862 /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
+		E263A8291FBB8A5000F14862 /* SongsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = SongsData.json; sourceTree = "<group>"; };
+		E263A82B1FBB8C6500F14862 /* SongsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsViewController.swift; sourceTree = "<group>"; };
+		E263A82D1FBB905400F14862 /* WeatherData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = WeatherData.json; sourceTree = "<group>"; };
+		E263A82F1FBB911800F14862 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
+		E263A8311FBB92F200F14862 /* CitiesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesViewController.swift; sourceTree = "<group>"; };
+		E263A8331FBB994500F14862 /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
+		E263A8351FBB9A0B00F14862 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		E263A8371FBB9A9000F14862 /* ColorsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ColorsData.json; sourceTree = "<group>"; };
+		E263A8391FBBA2E600F14862 /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
+		E263A83B1FBBA44000F14862 /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
+		E28FB3A21FBBA62B0083549C /* NewsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = NewsData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +105,11 @@
 		E263A7E41FBB7D0C00F14862 = {
 			isa = PBXGroup;
 			children = (
+				E263A8221FBB7F2400F14862 /* HousesData.json */,
+				E28FB3A21FBBA62B0083549C /* NewsData.json */,
+				E263A8371FBB9A9000F14862 /* ColorsData.json */,
+				E263A82D1FBB905400F14862 /* WeatherData.json */,
+				E263A8291FBB8A5000F14862 /* SongsData.json */,
 				E263A7EF1FBB7D0C00F14862 /* ParsingJSONExercises */,
 				E263A8041FBB7D0C00F14862 /* ParsingJSONExercisesTests */,
 				E263A80F1FBB7D0C00F14862 /* ParsingJSONExercisesUITests */,
@@ -97,6 +130,7 @@
 		E263A7EF1FBB7D0C00F14862 /* ParsingJSONExercises */ = {
 			isa = PBXGroup;
 			children = (
+				E263A8241FBB800100F14862 /* Models */,
 				E263A81E1FBB7D1D00F14862 /* SupportingFiles */,
 				E263A81F1FBB7D2900F14862 /* View Controllers */,
 				E263A7F41FBB7D0C00F14862 /* Main.storyboard */,
@@ -136,9 +170,25 @@
 		E263A81F1FBB7D2900F14862 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				E263A7F21FBB7D0C00F14862 /* ViewController.swift */,
+				E263A8201FBB7EAF00F14862 /* GOTHousesViewController.swift */,
+				E263A83B1FBBA44000F14862 /* NewsViewController.swift */,
+				E263A8331FBB994500F14862 /* ColorViewController.swift */,
+				E263A8311FBB92F200F14862 /* CitiesViewController.swift */,
+				E263A82B1FBB8C6500F14862 /* SongsViewController.swift */,
 			);
 			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		E263A8241FBB800100F14862 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E263A8251FBB828B00F14862 /* GOTHouse.swift */,
+				E263A8391FBBA2E600F14862 /* News.swift */,
+				E263A8351FBB9A0B00F14862 /* Color.swift */,
+				E263A8271FBB8A1500F14862 /* Song.swift */,
+				E263A82F1FBB911800F14862 /* City.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -248,7 +298,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E263A82E1FBB905400F14862 /* WeatherData.json in Resources */,
+				E263A82A1FBB8A5000F14862 /* SongsData.json in Resources */,
+				E263A8231FBB7F2400F14862 /* HousesData.json in Resources */,
 				E263A7FB1FBB7D0C00F14862 /* LaunchScreen.storyboard in Resources */,
+				E28FB3A31FBBA62B0083549C /* NewsData.json in Resources */,
+				E263A8381FBB9A9000F14862 /* ColorsData.json in Resources */,
 				E263A7F81FBB7D0C00F14862 /* Assets.xcassets in Resources */,
 				E263A7F61FBB7D0C00F14862 /* Main.storyboard in Resources */,
 			);
@@ -275,8 +330,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E263A7F31FBB7D0C00F14862 /* ViewController.swift in Sources */,
+				E263A8281FBB8A1500F14862 /* Song.swift in Sources */,
+				E263A8261FBB828B00F14862 /* GOTHouse.swift in Sources */,
+				E263A8341FBB994500F14862 /* ColorViewController.swift in Sources */,
+				E263A8301FBB911800F14862 /* City.swift in Sources */,
+				E263A83C1FBBA44000F14862 /* NewsViewController.swift in Sources */,
+				E263A82C1FBB8C6500F14862 /* SongsViewController.swift in Sources */,
+				E263A8211FBB7EAF00F14862 /* GOTHousesViewController.swift in Sources */,
+				E263A8321FBB92F200F14862 /* CitiesViewController.swift in Sources */,
 				E263A7F11FBB7D0C00F14862 /* AppDelegate.swift in Sources */,
+				E263A83A1FBBA2E600F14862 /* News.swift in Sources */,
+				E263A8361FBB9A0B00F14862 /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "source": "the-next-web",
+    "sortBy": "latest",
+    "articles": [
+                 {
+                 "author": "Rachel Kaser",
+                 "title": "Nintendo might be making a feature-length Mario movie",
+                 "description": "Nintendo is reportedly in talks with Universal Studios to create an animated film starring everyone's favorite Italian plumber, Mario.",
+                 "url": "https://thenextweb.com/gaming/2017/11/14/nintendo-might-be-making-a-feature-length-mario-movie/",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/mario-social.jpg",
+                 "publishedAt": "2017-11-14T21:42:36Z"
+                 },
+                 {
+                 "author": "Inés Casserly",
+                 "title": "US isn't the only country with an election interference problem",
+                 "description": "Voters in 18 nations were influenced by online trolls, propaganda and disinformation campaigns originating from different sources in the last year, according to a new study. According to research carried out by Freedom House, democratic integrity has only deteriorated in the past seven years, and as of June 2016 the countries most affected were Ukraine, …",
+                 "url": "https://thenextweb.com/insider/2017/11/14/us-isnt-the-only-country-with-an-election-interference-problem/",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/01/83076516-social.jpg",
+                 "publishedAt": "2017-11-14T20:33:16Z"
+                 },
+                 {
+                 "author": "Napier Lopez",
+                 "title": "Amazon Music adds Google Cast support, and I hope Prime Video is next",
+                 "description": "Amazon and Google have had a bit of an ongoing feud regarding streaming devices and services, but it seems the company might be starting to bury the hatchet. TechHive spotted Amazon had quietly added Google Cast support to its Music app a couple of weeks ago. I tested it on my own device, and it …",
+                 "url": "https://thenextweb.com/apps/2017/11/14/amazon-music-adds-google-cast-support-hope-prime-video-next/",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/Screenshot_2017-11-14-13-35-58-social.jpg",
+                 "publishedAt": "2017-11-14T19:28:53Z"
+                 },
+                 {
+                 "author": "George Beall",
+                 "title": "Talent development is the key to keeping the blockchain bubble from bursting",
+                 "description": "With an ICO frenzy and Bitcoin’s plunging valuation (and Bitcoin Cash’s soaring rates), attention on blockchain technology is growing increasingly fervent. Blockchain ledgers are ...",
+                 "url": "http://data.thenextweb.com/tnw/post/talent_development_is_the_key_to_keeping_the_blockchain_bubble_from_bursting",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/samson-duborg-rankin-91091-social.jpg",
+                 "publishedAt": "2017-11-14T18:56:00Z"
+                 },
+                 {
+                 "author": "Rachel Kaser",
+                 "title": "China is opening a massive VR theme park next month",
+                 "description": "Clear your schedules and count up your vacation days, everyone: A massive virtual reality theme park is opening next month in Guiyang, China.",
+                 "url": "https://thenextweb.com/virtual-reality/2017/11/14/china-is-opening-a-massive-vr-theme-park-next-month/",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/East-Valley-social.jpg",
+                 "publishedAt": "2017-11-14T18:17:08Z"
+                 },
+                 {
+                 "author": "Tristan Greene",
+                 "title": "This fictional video about AI-powered weapons makes The Terminator look like a Disney film",
+                 "description": "An organization dedicated to warning the world about the potential dangers of allowing robots to choose to kill humans created a terrifying fictional video.",
+                 "url": "https://thenextweb.com/artificial-intelligence/2017/11/14/this-fictional-video-about-ai-powered-weapons-makes-the-terminator-look-like-a-disney-film/",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/slaughterbots-social.jpg",
+                 "publishedAt": "2017-11-14T17:52:00Z"
+                 },
+                 {
+                 "author": "Conrad Egusa",
+                 "title": "3 ways millennials are reshaping the workplace",
+                 "description": "As a scaling startup, bringing on the right core team is core to company growth. It's important to not only find people who are willing to work hard, but also who share your company's ...",
+                 "url": "http://data.thenextweb.com/tnw/post/3_ways_millennials_are_reshaping_the_workplace",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/DSC_5466-social.png",
+                 "publishedAt": "2017-11-14T17:45:00Z"
+                 },
+                 {
+                 "author": "Már Másson Maack",
+                 "title": "25,000 EU citizens are unlikely to get compensation for Facebook’s alleged privacy violations",
+                 "description": "In 2015, Max Schrems, an Austrian privacy activist and lawyer, famously filed a class action lawsuit on behalf of 25,000 Facebook users. He was seeking a ‘token level’ reward of €500 per plaintiff for violations of privacy — for a total of €12.5 million. Schrems’ main concern with the lawsuit is that the data Facebook has …",
+                 "url": "https://thenextweb.com/eu/2017/11/14/25000-eu-citizens-unlikely-get-compensation-facebooks-alleged-privacy-violations/",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/eufacebook-social.jpg",
+                 "publishedAt": "2017-11-14T16:50:20Z"
+                 },
+                 {
+                 "author": "George Beall",
+                 "title": "How emergening companies can overcome ICO challenges",
+                 "description": "The ICO craze is peaking. As of November 8th, 2017, 203 projects raised a total of $3.25 billion through initial coin offerings. However, only 1 in 10  tokens are being used following ...",
+                 "url": "http://data.thenextweb.com/tnw/post/how_emergening_companies_can_overcome_ico_challenges",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/stefan-stefancik-257625-2-social.jpg",
+                 "publishedAt": "2017-11-14T16:17:00Z"
+                 },
+                 {
+                 "author": "Matthew Hughes",
+                 "title": "Twitter launches new paid API plans and makes it easier for devs to check their usage",
+                 "description": "The best way for third-party developers to use Twitter’s data is through the microblogging site’s APIs. Previously, they’ve had a choice between the standard free API, and the enterprise-oriented Gnip service. The two products differed significantly not just in cost, but also in the type of queries that could be performed, and there was no …",
+                 "url": "https://thenextweb.com/dd/2017/11/14/twitter-launches-new-paid-api-plans-makes-easier-devs-check-usage/",
+                 "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/Twitter-premium-APIs-developer-dashboard-for-Nov-14-social.jpg",
+                 "publishedAt": "2017-11-14T15:35:05Z"
+                 }
+                 ]
+}
